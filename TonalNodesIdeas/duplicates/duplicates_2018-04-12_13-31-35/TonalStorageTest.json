@@ -1,0 +1,42 @@
+{
+	"pattrstorage" : 	{
+		"name" : "TonalStorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"u592000420" : [  ],
+					"stuff::gainTest" : [ 157 ],
+					"stuff::gainTestThree" : [ 0 ],
+					"stuff::gainTestTwo" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"u592000420" : [  ],
+					"stuff::gainTest" : [ 0 ],
+					"stuff::gainTestThree" : [ 0 ],
+					"stuff::gainTestTwo" : [ 157 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"u592000420" : [  ],
+					"stuff::gainTest" : [ 0 ],
+					"stuff::gainTestThree" : [ 157 ],
+					"stuff::gainTestTwo" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
