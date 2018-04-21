@@ -2,7 +2,7 @@
 	"name" : "TonalNodesIdeas",
 	"version" : 1,
 	"creationdate" : -688856306,
-	"modificationdate" : -687887660,
+	"modificationdate" : -687885932,
 	"viewrect" : [ 25.0, 69.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -28,13 +28,18 @@
 		}
 ,
 		"media" : 		{
-			"Screen Shot 2018-04-20 at 3.01.31 PM.png" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
 			"NoiseSample.aif" : 			{
 				"kind" : "audiofile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Desktop",
+					"projectrelativepath" : "../../../../Desktop"
+				}
+
+			}
+,
+			"WindFormula.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
 					"bootpath" : "~/Desktop",
