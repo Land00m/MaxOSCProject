@@ -2,7 +2,7 @@
 	"name" : "TonalNodesIdeas",
 	"version" : 1,
 	"creationdate" : -688856306,
-	"modificationdate" : -687885932,
+	"modificationdate" : -687776030,
 	"viewrect" : [ 25.0, 69.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -22,7 +22,8 @@
 			}
 ,
 			"WindGrainer.maxpat" : 			{
-				"kind" : "patcher"
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
@@ -30,16 +31,6 @@
 		"media" : 		{
 			"NoiseSample.aif" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop",
-					"projectrelativepath" : "../../../../Desktop"
-				}
-
-			}
-,
-			"WindFormula.png" : 			{
-				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
 					"bootpath" : "~/Desktop",
@@ -55,19 +46,14 @@
 		}
 ,
 		"data" : 		{
-			"NotesForSynthesis.txt" : 			{
-				"kind" : "textfile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop",
-					"projectrelativepath" : "../../../../Desktop"
-				}
-
-			}
 
 		}
 ,
 		"externals" : 		{
+
+		}
+,
+		"other" : 		{
 
 		}
 
