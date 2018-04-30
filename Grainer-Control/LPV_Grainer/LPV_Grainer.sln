@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPV_Grainer", "LPV_Grainer.csproj", "{4BB29CC6-A510-67A9-204A-117511777733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPV_Grainer.Plugins", "LPV_Grainer.Plugins.csproj", "{630D7B14-9F67-B21B-6D53-CFA48A7E80E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPV_Grainer.Editor", "LPV_Grainer.Editor.csproj", "{8075717B-A48A-9FF4-80A5-A4D9B02B0023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPV_Grainer.Editor.Plugins", "LPV_Grainer.Editor.Plugins.csproj", "{AF9BD148-35F1-8FB5-6CFE-016690950A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB29CC6-A510-67A9-204A-117511777733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB29CC6-A510-67A9-204A-117511777733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB29CC6-A510-67A9-204A-117511777733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB29CC6-A510-67A9-204A-117511777733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630D7B14-9F67-B21B-6D53-CFA48A7E80E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630D7B14-9F67-B21B-6D53-CFA48A7E80E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630D7B14-9F67-B21B-6D53-CFA48A7E80E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630D7B14-9F67-B21B-6D53-CFA48A7E80E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8075717B-A48A-9FF4-80A5-A4D9B02B0023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8075717B-A48A-9FF4-80A5-A4D9B02B0023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8075717B-A48A-9FF4-80A5-A4D9B02B0023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8075717B-A48A-9FF4-80A5-A4D9B02B0023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9BD148-35F1-8FB5-6CFE-016690950A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9BD148-35F1-8FB5-6CFE-016690950A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9BD148-35F1-8FB5-6CFE-016690950A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9BD148-35F1-8FB5-6CFE-016690950A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
