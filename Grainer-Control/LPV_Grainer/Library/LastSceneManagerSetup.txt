@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UnityMaxExperiments.unity
+- path: Assets/Scene_One.unity
   isLoaded: 1
   isActive: 1
