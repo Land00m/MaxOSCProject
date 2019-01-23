@@ -31,7 +31,7 @@ MonoBehaviour:
   antialiasing:
     m_Enabled: 0
     m_Settings:
-      method: 0
+      method: 1
       fxaaSettings:
         preset: 4
       taaSettings:
@@ -40,12 +40,12 @@ MonoBehaviour:
         stationaryBlending: 0.99
         motionBlending: 0.99
   ambientOcclusion:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
-      intensity: 0.96
-      radius: 0.3
-      sampleCount: 16
-      downsampling: 0
+      intensity: 0.46
+      radius: 0.1
+      sampleCount: 3
+      downsampling: 1
       forceForwardCompatibility: 0
       ambientOnly: 0
       highPrecision: 0
